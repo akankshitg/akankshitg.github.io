@@ -70,13 +70,11 @@
             img{
                 @media #{$mobile_device} {
                     // padding-left: 20px;
-                    width: 40px;
-                    height: 80px;
+                    width: 70px;
                 }
                 @media #{$tablet_device} {
                     // padding-left: 20px;
                     width: 40px;
-                    height: 80px;
                 }
                
             }
