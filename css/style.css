@@ -2161,6 +2161,7 @@ h3 {
 .about_me .about_img .my_Pic img {
   height: 50%;
   width: 50%;
+  border-radius: 50%;
 }
 
 /* line 66, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
